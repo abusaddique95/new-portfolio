@@ -116,3 +116,10 @@ body {
     opacity: 0.6;
   }
 }
+
+.img {
+  width: 378px;
+  height: 504px;
+  border-radius: 300px;
+  margin-left: 80px;
+}
