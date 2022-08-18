@@ -221,3 +221,7 @@ body {
     transform: translateX(270px);
   }
 }
+
+.img {
+  max-width: 50%;
+}
